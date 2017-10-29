@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.6f455e79.css",
-  "main.css.map": "static/css/main.6f455e79.css.map",
-  "main.js": "static/js/main.199c713e.js",
-  "main.js.map": "static/js/main.199c713e.js.map",
+  "main.css": "static/css/main.8b80ca77.css",
+  "main.css.map": "static/css/main.8b80ca77.css.map",
+  "main.js": "static/js/main.668c623e.js",
+  "main.js.map": "static/js/main.668c623e.js.map",
   "static/media/fontawesome-webfont.eot?v=4.6.3": "static/media/fontawesome-webfont.25a32416.eot",
   "static/media/fontawesome-webfont.svg?v=4.6.3": "static/media/fontawesome-webfont.d7c63908.svg",
   "static/media/fontawesome-webfont.ttf?v=4.6.3": "static/media/fontawesome-webfont.1dc35d25.ttf",
@@ -11,6 +11,5 @@
   "static/media/header.jpg": "static/media/header.163b8baf.jpg",
   "static/media/overlay3.svg": "static/media/overlay3.22514a52.svg",
   "static/media/overlay4.svg": "static/media/overlay4.6133505e.svg",
-  "static/media/party.png": "static/media/party.01b2a771.png",
-  "static/media/party1.png": "static/media/party1.f5239934.png"
+  "static/media/party.png": "static/media/party.01b2a771.png"
 }
