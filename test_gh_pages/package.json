@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://connameng.github.io/wifi-router-solutions",
+  "homepage": "https://connameng.github.io/test_gh_pages",
   "dependencies": {
     "babel-core": "^6.24.1",
     "babel-eslint": "^7.2.3",
