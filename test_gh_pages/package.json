@@ -1,0 +1,34 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://connameng.github.io/wifi-router-solutions",
+  "dependencies": {
+    "babel-core": "^6.24.1",
+    "babel-eslint": "^7.2.3",
+    "eslint": "^3.19.0",
+    "eslint-plugin-import": "^2.2.0",
+    "gh-pages": "^1.0.0",
+    "react": "^15.6.1",
+    "react-bootstrap": "^0.31.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.6",
+    "react-router": "^4.1.1",
+    "react-router-dom": "^4.1.1",
+    "react-share": "^1.16.0",
+    "redux": "^3.7.2",
+    "survey-react": "^0.12.15"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.0.0",
+    "react-scripts": "0.9.5"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
